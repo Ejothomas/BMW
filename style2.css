@@ -1,0 +1,325 @@
+.second-side-div{
+font-family: "Abel", sans-serif;
+font-weight: 400;
+font-style: normal;
+position: absolute;
+top: 220px;
+margin-left:100px ;
+cursor: pointer;
+
+}
+.ix-img{
+width: 1326px;
+margin-top: 20px;
+}
+.second-large{
+position: relative;
+}
+.drive50-tag{
+font-size: 50px;
+margin-top: 1px;
+margin-bottom: 5px;
+}
+.curve{
+margin-top: 1px;
+font-size: 30px;
+}
+.sec-discover{
+width: 140px;
+height: 50px;
+font-family: tahoma;
+background-color:rgb(70, 70, 233) ;
+border: none;
+border-radius: 5px;
+color: white;
+cursor: pointer;
+}
+.sec-discover:hover{
+background-color:  rgb(29, 29, 136);
+}
+.third-large{
+
+position: relative;
+width: 1326px;
+height: 600px;
+font-family: "Abel", sans-serif;
+
+
+}
+.three-car-rows{
+display: flex;
+justify-content: space-between;
+margin-left: 70px;
+}
+.find-car-size{
+width: 400px;
+
+margin-top: 200px;
+
+}
+.book-car-size{
+width: 400px;
+margin-top: 200px;
+
+}
+.build-car-size{
+width: 400px;
+margin-top: 200px;
+}
+.f-line{
+position: absolute;
+top: 12px;
+font-size: 12px;
+margin-left: 650px;
+color: black;
+}
+.s-line{
+position: absolute;
+top: 10px;
+color: black;
+font-size: 50px;
+margin-left: 500px;
+}
+
+.third-line-button-2{
+height: 50px; margin-left: 130px;
+margin-top: 10px; 
+font-size: 15px; 
+font-weight: 600;
+cursor: pointer;
+background-color: white;
+border-radius: 3px;
+border: solid 2px;
+width: 190px;
+}
+.third-line-button-3{
+height: 50px;
+margin-left: 140px; 
+margin-top: 10px; font-size: 15px;
+font-weight: 600;
+cursor: pointer;
+background-color: white;
+border: solid 2px;
+border-radius: 3px;
+width: 150px;
+}
+.third-line-button-3:hover{
+background-color: white;
+border: solid 3px;
+}
+.third-line-button-2:hover{
+border: solid 3px;
+border-radius: 4px;
+
+}
+.third-line-button{
+
+background-color: white;
+border-radius: 3px;
+border: solid 2px;
+width: 130px; 
+height: 50px; 
+margin-left: 140px; 
+margin-top: 10px; 
+font-size: 15px; 
+font-weight: 600; 
+cursor: pointer;
+}
+.third-line-button:hover{
+border: solid 3px;
+border-radius: 4px;
+
+}
+.fourth-large-img{
+height: 700px;
+}
+.fourth-large{
+position: relative;
+}
+.know-more{
+position: absolute;
+top: 450px; 
+left: 100px; 
+width: 300px; 
+height: 50px; 
+background: transparent; 
+border: solid 1px; 
+border-color: white;
+color: white;
+font-size: 16px;
+font-weight: 600;
+cursor: pointer;
+border-radius: 4px;
+}
+.know-more:hover{
+border: solid 2px;
+}
+.fifth-line{
+display: flex;
+}
+.sixthline{
+display: flex;
+margin-top: 40px;
+padding-bottom: 30px;
+border-bottom : solid 1px; border-bottom-color: grey;
+
+}
+.no-more{
+font-size: 15px; 
+width: 200px;
+height: 50px;
+margin-left: 20px;
+border-radius: 4px;
+border: solid 1px;
+background-color: white;
+font-weight: 600;
+cursor: pointer;
+}
+.no-more:hover{
+border: solid 2px;
+
+}
+.last-line{
+width: 1326px;
+background-color: rgb(241, 240, 240);
+height: 500px;
+display: flex;
+position: relative;
+justify-content: space-between;
+}
+.lastdiv{
+font-weight: 600;
+margin-left: 20px;
+cursor: pointer;
+margin-top: 40px;
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+line-height: 5px;
+justify-content: center;
+}
+
+.lastdiv2{
+font-weight: 600;
+cursor: pointer;
+margin-left: 20px;
+margin-top: 50px;
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+line-height: 5px;
+justify-content: center;
+
+}
+.lastdiv3{
+font-weight: 600;
+cursor: pointer;
+margin-left: 20px;
+margin-top: 30px;
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+line-height: 5px;
+justify-content: center;
+}
+.lastdiv4{
+font-weight: 600;
+margin-left: 20px;
+width: 300px;
+height: 280px;
+display: flex;
+flex-direction: column;
+cursor: pointer;
+line-height: 5px;
+justify-content: center;
+}
+.icons{
+
+width: 200px;
+height: 50px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: absolute;
+bottom: 10px;
+left: 20px;
+}
+.appicon{
+width: 20px;
+height: 20px;
+cursor: pointer;
+}
+.deadend{
+position: relative;
+display: flex;
+justify-content: space-between;
+
+
+}
+.all-models:hover{
+color: blue;
+cursor: pointer;
+
+}
+.legal:hover{
+cursor: pointer;
+background-color: white;
+color: blue;
+
+}
+.legal{
+color: black;
+display: inline-block; 
+margin-left: 20px;
+font-weight: 600;
+margin-top: 40px;
+}
+.findnewcar{
+margin-left: 140px; 
+color: black; 
+font-size: 20px;
+}
+.booktestdrive{
+margin-left: 140px; 
+display: inline-block; 
+color: black; 
+font-size: 20px;
+}
+.forwardism{
+position: absolute; 
+top: 310px;
+font-size: 30px;
+left: 130px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.fifth-line-img{
+width: 600px; 
+margin-left: 100px;
+display: inline-block;
+}
+.electrified{
+color: black; 
+margin-top: 50px; 
+font-size: 12px; 
+margin-left: 30px; 
+display: inline-block;
+}
+.joy-of{
+color: black; 
+margin-top: 0; 
+font-size: 30px; 
+margin-left: 20px;
+}
+.percentage{
+font-size: 20px;
+line-height:  30px;
+margin-left: 20px; 
+color: grey;
+}
+.first-line{
+color: black; 
+font-size: 12px;
+}
